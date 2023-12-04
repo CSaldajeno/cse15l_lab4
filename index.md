@@ -44,12 +44,28 @@ keys pressed: <up><up><up><up><up><up><right><right><right><right><right><right>
 I typed vim ListExamples.java and pressed enter. Next, I  pressed <up> 6x to go to line that says index1 += 1; . Then, I pressed <right> 12x to reach the position after 1, pressed <i> for insert mode, <backspace> to delete the 1, and 2 to replace it. Finally, I pressed <esc> and typed :wq to quit and save my changes. I changed index1 += 1; to index2 += 1;
 
 ### step 8:
+9:
 
-![Image6](lab4_step8.png)
+![Image7](lab4_step9pt1.png)
 
-keys presssed: <up><enter>
+![Image8](lab4_step9pt2.png)
 
-I recently ran bash test.sh from the previous step, so I pressed <up> once to get it and then enter to rerun it.
+![Image9](lab4_step9pt3.png)
+
+![Image10](lab4_step9pt4.png)
+
+keys pressed: git add . 
+
+keys pressed: <enter>
+
+keys pressed: git commit 
+
+keys pressed: <enter>
+
+keys pressed: <down><down><down><down><down><down><down><down><down><down><down><i><step 9><esc><:wq>
+
+I typed git add . then pressed <enter> to add files in current directory and subdirectory to the staging area. Afterwards, I typed git commit and pressed enter again to ensure that it was pushed to the repository. To add a commit message, I pressed <down> 11x, then <i> to enter insert mode and typed `step 9`. Finally, I pressed <esc> to go back to normal mode and typed `:wq` to quit and save my changes.
+
 
 
 
