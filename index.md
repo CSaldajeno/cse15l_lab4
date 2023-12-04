@@ -8,7 +8,7 @@
 
 keys pressed: <up><up><enter>
 
-The ssh `cs15lfa23mi@ieng6.ucsd.edu command` was up 2 in the history, so I pressed `up` twice then `enter` in order to copy it on the terminal and run it.
+The ssh `cs15lfa23mi@ieng6.ucsd.edu` command was up 2 in the history, so I pressed `up` twice then `enter` in order to copy it on the terminal and run it.
 ---
 
 ### step 5:
