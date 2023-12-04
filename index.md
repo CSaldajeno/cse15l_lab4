@@ -47,6 +47,15 @@ keys pressed: <up><up><up><up><up><up><right><right><right><right><right><right>
 
 I typed vim ListExamples.java and pressed enter. Next, I  pressed <up> 6x to go to line that says index1 += 1; . Then, I pressed <right> 12x to reach the position after 1, pressed <i> for insert mode, <backspace> to delete the 1, and 2 to replace it. Finally, I pressed <esc> and typed :wq to quit and save my changes. I changed index1 += 1; to index2 += 1;
 ---
+### step 8:
+
+![Image6](lab4_step8.png)
+
+keys pressed: <up><up><enter>
+
+I ran bash.sh from the previous step, so I pressed <up> 2x to get it and <enter> to rerun it.
+
+---
 
 ### step 9:
 
