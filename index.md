@@ -15,7 +15,7 @@ The ssh `cs15lfa23mi@ieng6.ucsd.edu` command was up 2 in the history, so I press
 
 ![Image2](lab4_step5.png)
 
-keys pressed: <ctrl> r
+keys pressed: `<ctrl> r`
 
 outputs: (reverse-i-search)`':
 
