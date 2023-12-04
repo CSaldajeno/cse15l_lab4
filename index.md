@@ -33,7 +33,7 @@ I initally copied and pasted git clone https://github.com/ucsd-cse15l-s23/lab7 o
 keys pressed: `cd lab7 <enter>`
 keys pressed: `bash test.sh <enter>`
 
-I was in the home directory, so I had to cd to lab7 directory by typing cd lab7 and then enter. Afterwards, I typed bash.test.sh and then pressed `<enter>` to run the tests.
+I was in the home directory, so I had to cd to lab7 directory by typing cd lab7 and then `<enter>`. Afterwards, I typed bash.test.sh and then pressed `<enter>` to run the tests.
 ---
 
 ### step 7:
